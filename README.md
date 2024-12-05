@@ -6,6 +6,6 @@ El desafio 2 se realizo en Google Colab se adjunta el notebook
 
 La documentacion de ambos proyectos fue cargada en videos por cuestiones de tiempo en Youtube
 
-[Video desafio 1]()
+[Video desafio 1](https://www.youtube.com/watch?v=IipGe8mqP38)
 
-[Video desafio 2]()
+[Video desafio 2](https://www.youtube.com/watch?v=ClBTwmbOj18)
